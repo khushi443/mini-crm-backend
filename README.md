@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# crm-sales-dashboard
+🚀 Sales Deal Tracker CRM  A modern CRM dashboard built using HTML, CSS, JavaScript &amp; Chart.js.  ✨ Features: • Sales Pipeline Dashboard • Kanban Workflow • Gantt Timeline • Deal Management • AI Insights UI • Login &amp; Authentication • Responsive Modern UI  Built as a production-style frontend CRM project.
+>>>>>>> c14ab850e1e2e0d233fadeeb23fe75f0ec4e6cde
